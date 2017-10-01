@@ -4,7 +4,7 @@
 package view;
 
 /**
- * @author webbe
+ * @author cw222kq
  *
  */
 public class Console {

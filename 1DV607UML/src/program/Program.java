@@ -4,8 +4,7 @@
 package program;
 
 /**
- * @author webbe
- *
+ * @author cw222kq
  */
 public class Program {
 
