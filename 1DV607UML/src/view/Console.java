@@ -1,18 +1,18 @@
 /**
  * 
  */
-package model;
+package view;
 
 /**
- * @author cw222kq
+ * @author webbe
  *
  */
-public class Member {
+public class Console {
 
 	/**
 	 * 
 	 */
-	public Member() {
+	public Console() {
 		// TODO Auto-generated constructor stub
 	}
 

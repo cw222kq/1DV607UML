@@ -4,15 +4,15 @@
 package model;
 
 /**
- * @author cw222kq
+ * @author webbe
  *
  */
-public class Member {
+public class Boat {
 
 	/**
 	 * 
 	 */
-	public Member() {
+	public Boat() {
 		// TODO Auto-generated constructor stub
 	}
 
