@@ -30,5 +30,14 @@ public class Boat {
 		this.length =  length;
 		
 	}
+	public void delete(){
+		
+	}
+	public void changeType(Type type){
+		this.type = type;
+	}
+	public void changeLength(int length){
+		this.length = length;
+	}
 
 }
